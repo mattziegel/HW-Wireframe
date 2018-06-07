@@ -1,0 +1,146 @@
+body {
+    font-family:Arial,"Helvetica Neue",Helvetica,sans-serif;
+    background-color: #777; 
+    color:#777; 
+    font-size:18px;
+    width:960px;
+    margin:auto;
+}
+
+p {
+    background-color:#ebebeb;
+    color:#777;
+    font-size:18px;
+}
+
+h1 {
+    background-color:#ebebeb;
+    color:#777;
+    font-size:18px;
+    font-weight:normal;
+}
+
+h2 {
+    background-color:#ebebeb;
+    color:#777;
+    font-size:18px;
+    font-weight:normal;
+}
+
+h3 {
+    background-color:#ebebeb;
+    color:#777;
+    font-size:18px;
+
+}
+
+header {
+    width:960px;
+    padding:15px;
+    margin:10px;
+    background-color:#ebebeb;
+    text-align:center;
+}
+
+nav {
+    width:960px;
+    padding:15px;
+    margin:10px;
+    background-color:#ebebeb;
+    text-align:center;
+}
+
+footer {
+    width:960px;
+    padding:15px;
+    margin:10px;
+    background-color:#ebebeb;
+    text-align:center;
+    clear:both;
+    overflow:auto;
+}
+
+/* section {
+    width:495px;
+    height:300px;
+    padding:15px;
+    margin:20px;
+    right:10px;
+    top:-9.5px;
+    position:relative;
+    background-color:#ebebeb;
+    text-align:center;
+    float:left;
+} */
+
+/* aside {
+    width:400px;
+    height:250px;
+    padding:15px;
+    margin:20px;
+    left:550px;
+    position:relative;
+    background-color:#ebebeb;
+    text-align:center;
+} */
+
+section {
+    float: left;
+    margin: 1.5%;
+    width: 60%;
+    height:300px;
+    position:relative;
+    right:5px;
+    background-color:#ebebeb;
+    text-align:center;
+}
+
+article {
+    color:#ebebeb;
+    background-color:#777;
+    position:absolute;
+    left:10px;
+    bottom:10px;
+    width:555px;
+    height: 220px;
+    
+}
+
+.art {
+    color:#ebebeb;
+    background-color:#777;
+}
+
+.art-h {
+    position:absolute;
+    margin:30px;
+    padding:20px;
+    width:460px;
+    align-content:center;
+    top:30px;
+    font-weight:bold;
+}
+
+.art-p {
+    position:absolute;
+    margin:30px;
+    padding:20px;
+    width:460px;
+    bottom:-5px;
+}
+
+aside {
+    float: right;
+    margin: 1.5%;
+    width: 34%;
+    height:300px;
+    position:relative;
+    left:55px;
+    background-color:#ebebeb;
+    text-align:center;
+}
+
+.group {
+    clear:both;
+}
+
