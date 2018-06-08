@@ -129,13 +129,24 @@ article {
     bottom:-5px;
 }
 
-aside {
+/* aside {
     float: right;
     margin: 1.5%;
     width: 34%;
     height:300px;
     position:relative;
     left:55px;
+    background-color:#ebebeb;
+    text-align:center;
+} */
+
+aside {
+    margin: 1.5%;
+    width: 35.5%;
+    height:300px;
+    position:fixed;
+    top:201px;
+    left:665px;
     background-color:#ebebeb;
     text-align:center;
 }
